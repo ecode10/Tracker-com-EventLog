@@ -1,0 +1,5 @@
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\Tracker\Tracker\bin\Release\Tracker.dll
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\Tracker\Tracker\bin\Release\Tracker.pdb
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\Tracker\Tracker\obj\Release\Tracker.csprojResolveAssemblyReference.cache
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\Tracker\Tracker\obj\Release\Tracker.dll
+c:\users\mauriciojunior\documents\visual studio 2013\Projects\Tracker\Tracker\obj\Release\Tracker.pdb
